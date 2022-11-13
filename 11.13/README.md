@@ -54,5 +54,18 @@ servant `n.` `服务员、仆人`
 in service `在服务中、在营业中`  
 out of service `不在服务中、不在营业中`  
 
-#### 八、
+#### 八、细节
 
+detail `n.` `细节`  
+in detail `详细地`  
+detail `v.` `详述`  
+detailed `adj.` `详细的`  
+
+#### 九、抓
+
+catch a thief `抓一个小偷`  
+catch a bad cold `患重感冒`  
+be caught in the rain `淋雨`  
+catch sb. doing = see sb. doing  
+catch one's eyes = draw one's attention  
+catchy `adj.` `吸引人的、易上当的`  
