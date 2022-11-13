@@ -42,9 +42,9 @@ comparable `adj. 可比的`
 comparative `adj. 相比之下`  
 
 #### 六、吸引注意力
-get one's attention
-draw one's attention
-attract one's attention
+get one's attention  
+draw one's attention  
+attract one's attention  
 
 #### 七、耐心
 patient `adj. 耐心的` `n. 病人`  
@@ -61,7 +61,7 @@ organizer `n. 组织者`
 #### 十、加
 add a to b `把 a 加在 b`  
 addition `n. 附加`  
-in addition `此外` = additionally
+in addition `此外` = additionally  
 in additional to = besides `追加`  
 additional `adj. 额外的`  
 additive `n. 添加剂`

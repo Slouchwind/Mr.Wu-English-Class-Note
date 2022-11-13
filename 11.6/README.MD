@@ -9,7 +9,7 @@ be keen to `对……反应敏捷`
 
 #### 二、存在
 
-There exist ... = There be
+There exist ... = There be  
 existence `n.`  
 come into existence = come into being `开始形成`  
 existent `adj.`  
@@ -47,9 +47,9 @@ out of business `不营业`
 
 #### 六、目的
 
-purpose `n.` = aim / target / 
+purpose `n.` = aim / target /  
 purposeful `adj.`  
-purposefully `adv.` = on purpose
+purposefully `adv.` = on purpose  
 
 #### 七、简单的
 
@@ -61,5 +61,5 @@ simplistic `adj.` `过于简单化的`
 
 #### 九、present
 
-`n.` `礼物（不论新旧）` gift `礼物（新）、天赋` + for
+`n.` `礼物（不论新旧）` gift `礼物（新）、天赋` + for  
      `当前时刻`
