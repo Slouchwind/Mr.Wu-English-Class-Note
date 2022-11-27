@@ -3,7 +3,7 @@
 
 #### 一、
 <div align="center">
-<img src="./摸鱼.jpg" width="250" />
+<img src="../摸鱼.jpg" width="250" />
 </div>
 
 
